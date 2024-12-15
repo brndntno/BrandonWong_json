@@ -1,0 +1,21 @@
+h1 {
+    color: darkred;
+    padding-left: 40%;
+}
+#one {
+    color: lightgreen;
+    background-color: darkred;
+    height: 125px;
+    padding-left: 50%;
+    border-width: 50px;
+}
+#two {
+    color: lightcoral;
+    background-color: darkgreen;
+    height: 125px;
+    padding-left: 50%;
+    border-width: 50px;
+}
+body {
+    background-color: lightgreen;
+}
